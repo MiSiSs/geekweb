@@ -1,0 +1,44 @@
+[
+    {
+        "alt_img":"Fractal Logo",
+        "link_img":"https://wiki-es.guildwars2.com/images/7/75/Icono_Fractales.png",
+        "name":"Fractales",
+        "routerlink":"/fractales"
+    },
+    {
+        "alt_img":"Incursion Logo",
+        "link_img":"https://wiki.guildwars2.com/images/1/1f/Spirit_Vale_%28achievements%29.png",
+        "name":"Incursiones",
+        "routerlink":"/incursiones"
+    },
+    {
+        "alt_img":"MundoVsMundo Logo",
+        "link_img":"https://wiki.guildwars2.com/images/d/d2/World_vs_World.png",
+        "name":"MvM",
+        "routerlink":"/mvm"
+    },
+    {
+        "alt_img":"PVP Logo",
+        "link_img":"https://wiki.guildwars2.com/images/c/ca/PvP_Conqueror.png",
+        "name":"PvP",
+        "routerlink":"/pvp"
+    },
+    {
+        "alt_img":"PvE logo",
+        "link_img":"https://wiki.guildwars2.com/images/0/01/Map_Explored_100%25.png",
+        "name":"Mundo Abierto",
+        "routerlink":"/pve"
+    },
+    {
+        "alt_img":"Mazmorra logo",
+        "link_img":"https://wiki.guildwars2.com/images/0/0d/Dungeons_%28achievements%29.png",
+        "name":"Mazmorra",
+        "routerlink":"/mazmorra"
+    },
+    {
+        "alt_img":"Clan Logo",
+        "link_img":"https://wiki.guildwars2.com/images/2/26/Guild_Hall_Explorer.png",
+        "name":"Clan GeeK",
+        "routerlink":"/geek"
+    }
+]

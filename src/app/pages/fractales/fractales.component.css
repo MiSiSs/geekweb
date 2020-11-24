@@ -1,0 +1,90 @@
+
+#fondo-fractal{
+    background: url("/assets/img/fondo3.png") no-repeat fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.profesor_img{
+    height: 700px;
+    object-fit: cover;
+    padding: 0 1% 1% 1%;
+
+}
+
+#titulo{
+    /*margin-inline-start: 25%;
+    margin-inline-end: 25%; */
+    display: flex;
+    justify-content: center;
+    background: rgb(0,16,25);
+    background: linear-gradient(180deg, rgba(0,16,25,1) 0%, rgba(21,62,76,0) 53%);
+    
+}
+
+#titulo_p{
+    padding: 50px;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Play', sans-serif;
+    color: rgb(0,16,25,.6);
+    text-shadow: 0 0 15px rgba(11,14,23), 0 0 10px rgba(255,255,255,.8);
+}
+
+#logo{
+    padding: 20px;
+    justify-content: center;
+}
+
+.introduccion{          
+    justify-content: center;
+    border-color: #D9D15F;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-block-start: 1em;
+    margin-block-end: 0em;
+    margin-inline-start: 2em;
+    margin-inline-end: 0px;
+}
+.p_introduccion{
+    margin-block-start: 0em;
+    margin-block-end: 1em;
+    line-height: 1.2;
+}
+
+#contenido{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1%;
+    background-color: #06080D;
+    border-top: 40px solid  #111426;
+}
+
+.mat-card-title{
+    justify-content: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding: .25rem 1.25rem;
+    border: 5px solid #D9D15F;
+    background-color: #D9D15F;
+    text-align: center;
+    color: #06080D;
+    font-size: 25px;
+}
+
+.mat-card-header{
+    background-color: #D9D15F;
+}
+
+.div_contenido{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
